@@ -2,7 +2,7 @@
 <br><br>
 **Objective:** Define a route for the `"/"` path and a handler that returns "Hello, World!".
 <br><br>
-You can consult the Go docs for the [http](https://golang.org/pkg/net/http/) package for help.
+You can consult the documentation of the [http](https://golang.org/pkg/net/http/) package for help.
 <br><br>
 **Topics:** Golang, Routing, Backend, API
 <br><br>
